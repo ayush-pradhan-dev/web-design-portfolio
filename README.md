@@ -19,5 +19,5 @@ A clean, interactive, single-page React web application designed to help users t
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ayush-pradhan-dev/YOUR-REPO-NAME.git](https://github.com/ayush-pradhan-dev/YOUR-REPO-NAME.git)
-   cd YOUR-REPO-NAME
+   git clone https://github.com/ayush-pradhan-dev/web-design-portfolio.git
+   cd web-design-portfolio
