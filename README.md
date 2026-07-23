@@ -1,16 +1,23 @@
-# React + Vite
+# 🥗 Weekly Diet Plan & Calorie Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A clean, interactive, single-page React web application designed to help users track daily meals, monitor calorie intake, and log hydration throughout the week.
 
-Currently, two official plugins are available:
+## ✨ Key Features
+- 📅 **Weekly Navigation:** Select any day of the week (Monday–Sunday) to log and view specific daily plans.
+- 🎯 **Goal Progress Tracking:** Set daily calorie targets with a dynamic visual progress bar.
+- 🍲 **Meal Logging & Categorization:** Add meals classified by type (Breakfast, Lunch, Dinner, or Snacks) with instant state updates and removal options.
+- 💧 **Water Intake Log:** Increment and decrement water consumption in 250ml glass increments.
+- 📊 **Weekly Insights:** Visual summary of weekly calorie distribution along with total and daily average calculations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- **Frontend Framework:** React.js
+- **State Management:** React `useState` Hooks
+- **Styling:** Tailwind CSS
+- **Language:** JavaScript (ES6+)
 
-## React Compiler
+## 📦 How to Run Locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ayush-pradhan-dev/YOUR-REPO-NAME.git](https://github.com/ayush-pradhan-dev/YOUR-REPO-NAME.git)
+   cd YOUR-REPO-NAME
